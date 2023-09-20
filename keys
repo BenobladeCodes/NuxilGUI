@@ -39,3 +39,4 @@ local keys = {
     "q8M7l-T2nF8-jK5l4-iZ7b1-1H0o5",
     "P6i2z-3jN7b-K9o8H-1s4k0-5aF6l"
   }
+print(keys)
